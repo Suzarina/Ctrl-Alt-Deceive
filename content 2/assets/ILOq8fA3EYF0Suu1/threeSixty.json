@@ -1,0 +1,27 @@
+{
+  "version": "3.85.31840.0",
+  "course_id": "5Zpzx14c5w7",
+  "title": "storyline-archetypes-kd-updated-v2 (1)",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6qBSbIQiC2l",
+      "title": "Cards main page",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1100
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}

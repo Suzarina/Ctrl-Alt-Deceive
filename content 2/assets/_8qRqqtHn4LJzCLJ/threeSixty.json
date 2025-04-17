@@ -1,0 +1,52 @@
+{
+  "version": "3.98.34263.0",
+  "course_id": "6aRPHbVdas3",
+  "title": "key-4ps-s15-april",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5m7BWHbmSaG",
+      "title": "Splash page",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6nQNestJg3u",
+      "title": "All Keys",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6bzodRaGrOB",
+      "title": "Pressure",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "64twOG2FsJt",
+      "title": "Pay",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6TOsrqybZCt",
+      "title": "Pretend",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6nRg2d9Wg6f",
+      "title": "Prize",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1100
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}

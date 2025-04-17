@@ -1,0 +1,27 @@
+{
+  "version": "3.85.31840.0",
+  "course_id": "60QmEfl4nZO",
+  "title": "Love or Lies?",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6ZljQKFeqae",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1151
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
